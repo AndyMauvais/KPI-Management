@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/andy.mauvais/viz/SalesandProfitManagement
 ## Overview  
 Provide summary information to management in a dashboard format with interactive elements.  
   
-
+![Sales Dashboard](salesdashboard.png)
   
 * Connected excel sheet data including customer order data for multiple products.  
 * Visualized big key performance numbers  
@@ -15,11 +15,11 @@ Provide summary information to management in a dashboard format with interactive
 * Coded calculated fields to gather new insights.  
 * Produced dual axis bar charts  
 * Formed and designed an interactive dashboard  
-
- 
-
-
- 
+  
+   
+  
+  
+   
 
  
 
